@@ -34,19 +34,19 @@ The Acceptance Criteria included:
 
 ## Visual Representation 
 
-View all departments:
+View all departments:<br>
 ![](./assets/employee-tracker-1.png)
 
-<br>View all roles:
+<br>View all roles:<br>
 ![](./assets/employee-tracker-2.png)
 
-<br> View all employees:
+<br> View all employees:<br>
 ![](./assets/employee-tracker-3.png)
 
-<br>Add a department, role, and/or employee:
+<br>Add a department, role, and/or employee:<br>
 ![](./assets/employee-tracker-4.png)
 
-<br>Update an existing employee:
+<br>Update an existing employee:<br>
 ![](./assets/employee-tracker-5.png)
 
 ## Contributors
