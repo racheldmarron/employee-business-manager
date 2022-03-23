@@ -6,8 +6,8 @@ VALUES
     ('Engineering'),
     ('Product'),
     ('Design'),
-    ('Data Research');
-    ('Legal');
+    ('Data Research'),
+    ('Legal'),
     ('HR');
 
 INSERT INTO role

@@ -1,7 +1,9 @@
 # Employee Management System (EMS)
 
 ## Link to deployed application 
-Video Walkthrough: <a href="https://racheldmarron.github.io/store-your-notes/">https://racheldmarron.github.io/store-your-notes/</a>
+Video Walkthrough: <a href="https://www.youtube.com/watch?v=6DQQxOzwqbg">https://www.youtube.com/watch?v=6DQQxOzwqbg</a>
+
+![](./assets/employee-tracker-video.png)
 
 ## Overview 
 Using Node.js, Inquirer, and MySQL, I created an employee managment system that can be run on the command line to view the database containing employee, department, and role information. Users are also able to update the tables my adding or updating employee role information.
@@ -32,19 +34,20 @@ The Acceptance Criteria included:
 
 ## Visual Representation 
 
+View all departments:
+![](./assets/employee-tracker-1.png)
 
-![](./assets/note-taker-1.png)
+<br>View all roles:
+![](./assets/employee-tracker-2.png)
 
-![](./assets/note-taker-2.png)
+<br> View all employees:
+![](./assets/employee-tracker-3.png)
 
-<br><br>
-![](./assets/note-taker-3.png)
+<br>Add a department, role, and/or employee:
+![](./assets/employee-tracker-4.png)
 
-<br><br>
-![](./assets/note-taker-4.png)
-
-<br><br>
-![](./assets/note-taker-5.png)
+<br>Update an existing employee:
+![](./assets/employee-tracker-5.png)
 
 ## Contributors
 
